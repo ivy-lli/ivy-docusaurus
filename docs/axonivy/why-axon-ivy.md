@@ -7,7 +7,7 @@ sidebar_position: 2
 Axon Ivy is exciting for everyone who participates in your digital transformation
 journey.
 
-* **Business**: 
+* **Business**:
   We enable you to start your digital transformation journey and
   make new business opportunities possible. You are still the captain of your
   ship, start with simple automations and transform essential parts of your
